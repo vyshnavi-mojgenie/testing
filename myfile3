@@ -1,0 +1,11 @@
+Place “?” after the router parameter to make it optional as shown below.
+
+Route::get('user/{name?}', function ($name='Paul') {  
+    return $name;  
+});
+Named Routes
+
+In the following route, the report controller will call the function showReport with parameters as the report.
+
+Route::get(student/report, 'ReportController@showReport')->name(report);
+
