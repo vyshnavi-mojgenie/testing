@@ -5,3 +5,13 @@ with commits from the remote,
 but rewrite history so any local commits occur 
 after all new commits coming from the remote, 
 avoiding a merge commit.
+You can update your local working branch 
+with commits from the remote,
+but rewrite 
+history so any local 
+commits
+occur after all new 
+commits 
+coming from the
+remote, 
+avoiding a merge commit.
